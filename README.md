@@ -1,5 +1,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/safwansalvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/safwan-salvi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008942709769)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/safwansalvi//)  
 
+
 ### Hi there 👋, my name is Safwan Hasan Salvi
 #### AI & Machine Learning Enthusiast
 ![AI & Machine Learning Enthusiast](https://media.licdn.com/dms/image/D5616AQFhr0u6SrpKXg/profile-displaybackgroundimage-shrink_350_1400/0/1722535020648?e=1728518400&v=beta&t=y_4G3vq1R_97Wa4_BGqcTFm0mF-bX1N8LuOrf7crByA)
@@ -23,7 +24,7 @@ Skills: Python/ HTML / C++/ C / ML / AI / Deep learning
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=safwansalvi&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/safwansalvi)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=safwansalvi)  
 
